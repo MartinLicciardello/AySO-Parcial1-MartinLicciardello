@@ -1,0 +1,3 @@
+ip publica: 190.172.125.51 
+nombre usuario : vagrant
+hash de mi usuario: $y$j9T$YKDqIFD.esIbEj1zqtfhF1$2BxW2Gvo/GCjKPKWJ75Rb3jADWRLpZ7W9MOZmyB5RX2
